@@ -22,4 +22,4 @@ This script uses `turtle`, which needs a graphical display. On a server, run it 
 If you use a GUI-enabled server, you can run normally with:
 `python3 hanumanji.py`
 
-Follow us on Instagram: https://www.instagram.com/beatking._.sagar/?hl=en
+Follow me on Instagram: https://www.instagram.com/beatking._.sagar/?hl=en
